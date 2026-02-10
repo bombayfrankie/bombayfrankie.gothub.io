@@ -2,7 +2,7 @@
 
 Official website for Bombay Food Co. - Authentic Mumbai street food in Melbourne.
 
-**Website:** https://bombayfrankie.github.io/menu/
+**Website:** https://bombayfood.github.io/menu/
 
 **Instagram:** @bombayfood_co
 
